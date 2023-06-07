@@ -1,0 +1,12 @@
+C:\Users\freia\source\repos\ToDo\ToDoDomain\bin\Debug\net7.0\ToDo.Domain.deps.json
+C:\Users\freia\source\repos\ToDo\ToDoDomain\bin\Debug\net7.0\ToDo.Domain.dll
+C:\Users\freia\source\repos\ToDo\ToDoDomain\bin\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.csproj.AssemblyReference.cache
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfoInputs.cache
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.AssemblyInfo.cs
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.dll
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\refint\ToDo.Domain.dll
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\freia\source\repos\ToDo\ToDoDomain\obj\Debug\net7.0\ref\ToDo.Domain.dll

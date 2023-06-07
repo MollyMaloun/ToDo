@@ -1,0 +1,15 @@
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\bin\Debug\net7.0\ToDo.DAL.deps.json
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\bin\Debug\net7.0\ToDo.DAL.dll
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\bin\Debug\net7.0\ToDo.DAL.pdb
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\bin\Debug\net7.0\ToDo.Domain.dll
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\bin\Debug\net7.0\ToDo.Domain.pdb
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.csproj.AssemblyReference.cache
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.AssemblyInfoInputs.cache
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.AssemblyInfo.cs
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.csproj.CopyComplete
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.dll
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\refint\ToDo.DAL.dll
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ToDo.DAL.pdb
+C:\Users\freia\source\repos\ToDo\ToDo.DAL\obj\Debug\net7.0\ref\ToDo.DAL.dll
